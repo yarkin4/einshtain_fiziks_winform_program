@@ -249,5 +249,10 @@ namespace WindowsFormsApp2
             label3.Visible = false;
             label4.Visible = false;
         }
+
+        private void def()
+        {
+            //nithing
+        }
     }
 }
