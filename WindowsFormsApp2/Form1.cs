@@ -254,5 +254,20 @@ namespace WindowsFormsApp2
         {
             //nithing
         }
+
+        private void newf1()
+        {
+            //nithing
+        }
+
+        private void newf2()
+        {
+            //nithing
+        }
+
+        private void newf3()
+        {
+            //nithing
+        }
     }
 }
